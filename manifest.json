@@ -142,7 +142,9 @@
           "githubUrl": "https://github.com/python/mypy",
           "source": "build_file:pyproject.toml"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/55b4818186834f62983a191f8e734200c74a53ee/chunk-001.nq.gz",
+      "dep": "dep/55b4818186834f62983a191f8e734200c74a53ee.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
