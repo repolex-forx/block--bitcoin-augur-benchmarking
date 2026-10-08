@@ -1,0 +1,11 @@
+{
+  "org": "block",
+  "repo": "bitcoin-augur-benchmarking",
+  "versions": [
+    {
+      "commit": "55b4818186834f62983a191f8e734200c74a53ee",
+      "tag": "main",
+      "parsed_at": "2026-10-08T11:22:01.372292+00:00"
+    }
+  ]
+}
