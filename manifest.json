@@ -1,0 +1,27 @@
+{
+  "manifest_version": "1.0",
+  "org": "block",
+  "repo": "bitcoin-augur-benchmarking",
+  "versions": [
+    {
+      "commit": "55b4818186834f62983a191f8e734200c74a53ee",
+      "parsed_at": "2026-10-08T11:10:37.980332+00:00",
+      "tag": "main",
+      "filetree": "filetree/55b4818186834f62983a191f8e734200c74a53ee.nq.gz",
+      "blobs": [
+        "blob/01f0cb07bb642a355b41689877e23f307d563be6.nq.gz",
+        "blob/6bccf43368fd7c96d9c659562a5142b8b8cb98a1.nq.gz",
+        "blob/1461af1fa54f85085860c3a7e650bcb40804178a.nq.gz",
+        "blob/59ca81bf8f29ce65c5ef362518239275264f311d.nq.gz",
+        "blob/46228b0624e4643b1415c427b844e42b1b43d7a3.nq.gz",
+        "blob/60baa9cb833f9e075739f327f4fe68477c84a093.nq.gz",
+        "blob/1bc469e68eb776aa52185c6cbfc5cdcaee837ce3.nq.gz",
+        "blob/d36cefbf88ac9837148efdfe24c5e020e5b26b7b.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
