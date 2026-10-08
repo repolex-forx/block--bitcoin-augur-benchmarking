@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/block/bitcoin-augur-benchmarking/commit/55b4818186834f62983a191f8e734200c74a53ee",
       "git:hexsha": "55b4818186834f62983a191f8e734200c74a53ee",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]

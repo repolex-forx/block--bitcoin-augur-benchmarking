@@ -1,0 +1,7 @@
+[2026-10-08T11:18:50Z] === AST ITERATION 1 START | repo=block/bitcoin-augur-benchmarking sha=55b48181 ===
+[2026-10-08T11:18:50Z] [iter=1] PHASE START: ast repo=block/bitcoin-augur-benchmarking sha=55b48181
+[2026-10-08T11:18:50Z] [iter=1] Building AST aggregate chunks
+[2026-10-08T11:18:52Z] [iter=1] AST chunks built count=1 triples=21640
+[2026-10-08T11:18:52Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/55b4818186834f62983a191f8e734200c74a53ee/.complete
+[2026-10-08T11:18:52Z] [iter=1] PHASE END: ast elapsed_s=2 elapsed_min=0.0
+[2026-10-08T11:18:52Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
