@@ -20,6 +20,128 @@
       ],
       "ast": [
         "aggregate/ast/55b4818186834f62983a191f8e734200c74a53ee/chunk-001.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/55b4818186834f62983a191f8e734200c74a53ee.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "pandas",
+          "ecosystem": "PYPI",
+          "version": "2.0.0",
+          "githubOrg": "pandas-dev",
+          "githubRepo": "pandas",
+          "githubCommit": "478d340667831908b5b4bf09a2787a11a14560c9",
+          "githubTag": "v2.0.0",
+          "githubUrl": "https://github.com/pandas-dev/pandas",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "numpy",
+          "ecosystem": "PYPI",
+          "version": "1.24.0",
+          "githubOrg": "numpy",
+          "githubRepo": "numpy",
+          "githubCommit": "8cec82012694571156e8d7696307c848a7603b4e",
+          "githubTag": "v1.24.0",
+          "githubUrl": "https://github.com/numpy/numpy",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tqdm",
+          "ecosystem": "PYPI",
+          "version": "4.65.0",
+          "githubOrg": "tqdm",
+          "githubRepo": "tqdm",
+          "githubCommit": "0bb91857eca0d4aea08f66cf1c8949abe0cd6b7a",
+          "githubTag": "v4.65.0",
+          "githubUrl": "https://github.com/tqdm/tqdm",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "colorama",
+          "ecosystem": "PYPI",
+          "version": "0.4.6",
+          "githubOrg": "tartley",
+          "githubRepo": "colorama",
+          "githubCommit": "3de9f013df4b470069d03d250224062e8cf15c49",
+          "githubTag": "0.4.6",
+          "githubUrl": "https://github.com/tartley/colorama",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "tabulate",
+          "ecosystem": "PYPI",
+          "version": "0.9.0",
+          "githubOrg": "astanin",
+          "githubRepo": "python-tabulate",
+          "githubCommit": "bf58e37e6b35e3cc9a0bd740f752abfd32b6e6f8",
+          "githubTag": "v0.9.0",
+          "githubUrl": "https://github.com/astanin/python-tabulate",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest",
+          "ecosystem": "PYPI",
+          "version": "7.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest",
+          "githubCommit": "3554b833c24f541af5c7272e47cfa52b89d8138d",
+          "githubTag": "7.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "pytest-cov",
+          "ecosystem": "PYPI",
+          "version": "4.0.0",
+          "githubOrg": "pytest-dev",
+          "githubRepo": "pytest-cov",
+          "githubCommit": "28db055bebbf3ee016a2144c8b69dd7b80b48cc5",
+          "githubTag": "v4.0.0",
+          "githubUrl": "https://github.com/pytest-dev/pytest-cov",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "black",
+          "ecosystem": "PYPI",
+          "version": "22.0.0",
+          "githubOrg": "psf",
+          "githubRepo": "black",
+          "githubUrl": "https://github.com/psf/black",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "isort",
+          "ecosystem": "PYPI",
+          "version": "5.10.0",
+          "githubOrg": "PyCQA",
+          "githubRepo": "isort",
+          "githubCommit": "c154ecff496bf9309eaf5d887f4aa4a0abba28a2",
+          "githubTag": "5.10.0",
+          "githubUrl": "https://github.com/PyCQA/isort",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "flake8",
+          "ecosystem": "PYPI",
+          "version": "5.0.0",
+          "githubOrg": "pycqa",
+          "githubRepo": "flake8",
+          "githubCommit": "c7c6218e58f0fc005bd80f1872da63cd51afe71a",
+          "githubTag": "5.0.0",
+          "githubUrl": "https://github.com/pycqa/flake8",
+          "source": "build_file:pyproject.toml"
+        },
+        {
+          "packageName": "mypy",
+          "ecosystem": "PYPI",
+          "version": "1.0.0",
+          "githubOrg": "python",
+          "githubRepo": "mypy",
+          "githubCommit": "bc18017c19eb81bf5c11756f4e7dede4791e2823",
+          "githubTag": "v1.0.0",
+          "githubUrl": "https://github.com/python/mypy",
+          "source": "build_file:pyproject.toml"
+        }
       ]
     }
   ],
